@@ -25,7 +25,7 @@ This project explores two contrasting methodologies:
 ---
 
 ## Project Structure
-
+```
 project-repository/
 │
 ├── Text Mining Approach 1 (SVM Technique).ipynb
@@ -33,6 +33,7 @@ project-repository/
 ├── paper.pdf
 ├── requirements.txt
 └── README.md
+```
 ---
 
 ## Approaches
