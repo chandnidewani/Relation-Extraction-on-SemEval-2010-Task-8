@@ -79,7 +79,7 @@ The second approach leverages the power of transformers:
 | Approach          | F1-Score (Overall) | F1-Score (Excluding 'Other') |
 |-------------------|-------------------|------------------------------|
 | SVM-Based Model   | 76%               | 86%                          |
-| BERT-Based Model  | 77%               | Slight improvements observed |
+| BERT-Based Model  | 77%               | 87%                          |
 
 **Note:** The BERT model exhibits marginally better overall performance, while the SVM model shows strong results due to carefully crafted feature sets.
 
